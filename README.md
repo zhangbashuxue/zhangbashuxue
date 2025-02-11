@@ -1,16 +1,60 @@
 ## Hi there 👋
 
-<!--
-**zhangbashuxue/zhangbashuxue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到 **张爸数学启蒙** 的 GitHub 主页！  
+**让数学成为孩子的思维乐园**
 
-Here are some ideas to get you started:
+🔗 **官方网站**：[张爸数学启蒙](https://www.zhangbashuxue.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 我的课程
+[点击进入我的课程](https://www.zhangbashuxue.com/courses/)
+
+✏️ **数学启蒙文章**：每周更新，用心做好原创内容
+
+---
+
+### 关于我
+
+- 🔭 **我目前致力于**  
+  - 开发适合 4~12 岁儿童的数学启蒙课程  
+  - 撰写原创数学启蒙文章，推广趣味数学与生活数学
+
+- 🌱 **我正在学习**  
+  - 最新的数学教育方法与技术  
+  - 如何更有效地激发孩子的数学思维
+
+- 👯 **我希望与**  
+  - 热爱数学启蒙的教育工作者、家长及相关专家合作  
+  - 共同探索创新的儿童数学教学模式
+
+- 🤔 **如果你需要帮助**  
+  - 欢迎就数学启蒙、趣味数学教学等问题向我交流  
+  - 我乐意分享经验并一同寻找解决方案
+
+- 💬 **你可以问我关于**  
+  - 儿童数学启蒙课程内容和教学理念  
+  - 如何培养孩子的数学思维与兴趣
+
+- 📫 **如何联系我**  
+  - 添加微信/QQ：759300446 （添加请备注事由）  
+  - 加入 QQ 交流群领取学习资料：[点击加入](https://qm.qq.com/q/eKFVR7friw)
+
+- 😄 **趣味小事**  
+  - **座右铭**：日拱一卒，学无止境！
+
+---
+
+### 数学启蒙体系
+
+- **体系构成**：五大主题 + 三个年龄段  
+- **适用人群**：4~12 岁儿童  
+- **教学特色**：结合趣味数学与生活数学，全面培养数学思维
+
+<a href="https://qm.qq.com/q/eKFVR7friw" class="qq-group-btn" target="_blank" title="点击加入QQ交流群">
+  <span>立即进群</span>
+  <img src="https://www.zhangbashuxue.com/wp-content/uploads/2025/02/QQ小企鹅96.png" 
+       alt="QQ群图标" 
+       style="width:28px; height:28px; vertical-align:middle; margin:0 6px;">
+  <span>领学习资料</span>
+</a>
+
+---
